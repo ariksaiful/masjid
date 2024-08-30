@@ -52,7 +52,7 @@ if(checkDB()) {
 
 class App_installer
 {
-	public $db_host = '';
+	public $db_host = 'localhost';
 
 	public $db_user = '';
 
